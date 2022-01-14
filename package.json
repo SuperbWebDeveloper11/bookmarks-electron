@@ -1,0 +1,16 @@
+{
+  "name": "bookmarker",
+  "version": "1.0.0",
+  "description": "An example Electron application",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Unknown",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "electron": "^16.0.5"
+  }
+}
